@@ -8,7 +8,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
 
 
-Benefits of using JsonPowerDB:
+#### Benefits of using JsonPowerDB:
 
 1. Simplest way to retrieve data in a JSON format.
 
